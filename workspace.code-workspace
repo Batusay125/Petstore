@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\HTML_CSS"
+		},
+		{
+			"path": "c:\\xampp\\htdocs\\kurs_php\\moje_zadania\\4_monthly_expenses"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "4_monthly_expenses"
+	}
+}

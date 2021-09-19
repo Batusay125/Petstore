@@ -1,0 +1,49 @@
+{
+  "products":[
+    {
+      "id": 1001,
+      "title": "Karma dla kota 10 kg",
+      "description": "10-kilogramowe opakowanie pysznej karmy organicznej, której żaden kot się nie <em>oprze</em>!",
+      "price": 6700,
+      "image": "assets/images/product-fullsize.png",
+      "availableInventory": 10,
+      "rating": 3
+    },
+    {
+      "id": 1002,
+      "title": "Nitka",
+      "description": "Nitka, z którą twój kot będzie się mógł bawić <strong>bardzo</strong> długo!",
+      "price": 799,
+      "image": "assets/images/yarn.jpg",
+      "availableInventory": 7,
+      "rating": 1
+    },
+    {
+      "id": 1003,
+      "title": "Koci żwirek",
+      "description": "Żwirek premium dla kocich arystokratów.",
+      "price": 3500,
+      "image": "assets/images/cat-litter.jpg",
+      "availableInventory": 99,
+      "rating": 4
+    },
+    {
+      "id": 1004,
+      "title": "Koci domek",
+      "description": "Miejsce, w którym twój kot będzie się mógł bawić!",
+      "price": 2799,
+      "image": "assets/images/cat-house.jpg",
+      "availableInventory": 11,
+      "rating": 5
+    },
+    {
+      "id": 1005,
+      "title": "Wskaźnik laserowy",
+      "description": "Doprowadź swojego kota do amoku dzięki temu <em>rewelacyjnemu</em> produktowi.",
+      "price": 12599,
+      "image": "assets/images/laser-pointer.jpg",
+      "availableInventory": 25,
+      "rating": 5
+    }
+  ]
+}
